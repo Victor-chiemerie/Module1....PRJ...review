@@ -57,9 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖<a name="about-project">Project Review</a>
 
-> Describe your project in 1 or 2 sentences.
+> Describe your project in 1 or 2 sentences. This project teaches one on how to make a code review
 
 **[your_project__name]** is a...
 
@@ -204,15 +204,9 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Victor-chiemerie)
+- Twitter: [@twitterhandle](https://twitter.com/VictorChiemer20)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/victor-chiemerie-460475246/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
